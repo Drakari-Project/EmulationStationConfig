@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<systemList>
+	<system>
+		<name>code.org</name>
+		<fullname>code.org</fullname>
+		<path>%ROMPATH%/code.org</path>
+		<extension>.html</extension>
+		<command>%RUNINBACKGROUND% bash /Users/rocketliam/ES-DE/scripts/launchCodeorg.bash %GAMEDIR%</command>
+		<theme>android</theme>
+	</system>
+</systemList>
